@@ -1,0 +1,33 @@
+body {
+  background-color: rgb(229, 229, 229);
+}
+
+.container-login-empresa {
+  align-items: center;
+  display: flex;
+  border-radius: 5px;
+  padding: 30px 20px;
+  flex-direction: column;
+}
+
+.input {
+  flex: 3;
+  font-size: 1rem;
+  border: 2px solid #d1d3d4;
+  border-radius: 5px;
+  padding: 12px;
+  font-weight: 500;
+  margin-bottom: 20px;
+  flex-direction: column;
+}
+
+.container-all {
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.input-senha-empresa {
+  margin-top: 20px;
+}
